@@ -19,12 +19,16 @@
 					"amount": "20000"
 				},
 				{
+					"description": "Web hosting",
+					"amount": "20"
+				},
+				{
 					"description": "Advertising",
 					"amount": "100"
 				},
 				{
-					"description": "Web hosting",
-					"amount": "20"
+					"description": "sdfsdf",
+					"amount": "34343434"
 				}
 			]
 		},
